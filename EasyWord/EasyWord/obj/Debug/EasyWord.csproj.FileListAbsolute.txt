@@ -1,0 +1,4 @@
+D:\0.MyProject\EasyWord\EasyWord\EasyWord\bin\Debug\EasyWord.dll
+D:\0.MyProject\EasyWord\EasyWord\EasyWord\bin\Debug\EasyWord.pdb
+D:\0.MyProject\EasyWord\EasyWord\EasyWord\obj\Debug\EasyWord.dll
+D:\0.MyProject\EasyWord\EasyWord\EasyWord\obj\Debug\EasyWord.pdb

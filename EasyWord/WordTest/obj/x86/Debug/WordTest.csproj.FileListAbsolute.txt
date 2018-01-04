@@ -1,0 +1,10 @@
+D:\0.MyProject\EasyWord\EasyWord\WordTest\bin\Debug\WordTest.exe
+D:\0.MyProject\EasyWord\EasyWord\WordTest\bin\Debug\WordTest.pdb
+D:\0.MyProject\EasyWord\EasyWord\WordTest\obj\x86\Debug\WordTest.Properties.Resources.resources
+D:\0.MyProject\EasyWord\EasyWord\WordTest\obj\x86\Debug\WordTest.csproj.GenerateResource.Cache
+D:\0.MyProject\EasyWord\EasyWord\WordTest\obj\x86\Debug\WordTest.exe
+D:\0.MyProject\EasyWord\EasyWord\WordTest\obj\x86\Debug\WordTest.pdb
+D:\0.MyProject\EasyWord\EasyWord\WordTest\bin\Debug\EasyWord.dll
+D:\0.MyProject\EasyWord\EasyWord\WordTest\bin\Debug\EasyWord.pdb
+D:\0.MyProject\EasyWord\EasyWord\WordTest\obj\x86\Debug\WordTest.csprojResolveAssemblyReference.cache
+D:\0.MyProject\EasyWord\EasyWord\WordTest\obj\x86\Debug\WordTest.Form1.resources
